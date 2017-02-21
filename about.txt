@@ -1,1 +1,1 @@
-An opensource initiative to work on text analysis for I
+An opensource initiative to work on text analysis for Indian Languages. Parallel systems will be made and Indian Language specific issues will be handled.
